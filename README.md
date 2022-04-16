@@ -1,1 +1,2 @@
-# eth-dapp-supplychain
+# Supply chain & data auditing
+
